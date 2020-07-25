@@ -1,5 +1,5 @@
 # BLE-MQTT-ESP32
-
+![alt text](https://github.com/armansyh/ble-mqtt-esp32/blob/master/img/system-flow.PNG?raw=true)
 Pada sistem yang akan dibuat dibutuhkan 1 jenis mikrokontroller yang digunakan yaitu dengan ESP32 yang terhubung dengan model komunikasi BLE dan protokol MQTT terhubung pada thingsboard. Sistem pendeteksi kebakaran ini menggunakan beberapa sensor untuk mendukung dalam menjalankan sistem ini, diantaranya adalah sensor MQ2 untuk pendeteksi gas dan asap dan DHT11 untuk sensor suhu dan kelembapan.'
 
 ## Things to use!
